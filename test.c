@@ -2,7 +2,7 @@
 
 int main(int argc, char *argv[]) {
    int *a_pointer;
-   int a_value = 5;
+   int a_value = 6;
 
    a_pointer = &a_value;
 
